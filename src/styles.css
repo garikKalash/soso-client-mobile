@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+.validation-error-block{
+  background-color: pink;
+  border: 1px red;
+  width: 100%;
+}
+
+div.ui-datagrid-header.ui-widget-header.ui-corner-top{
+  display: none !important;
+}
+
+
+
+ul.ui-widget-header{
+  border:none !important;
+  background-color:#f2f5f7 !important;
+
+}
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+/*
+body {
+
+   width: 100%;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+ }*/
+i:hover{
+  color: grey;
+}
+
+div.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-shadow.ui-dialog-draggable{
+  left:10% !important;
+  top: 5% !important;
+  right: 10% !important;
+}
+
+
